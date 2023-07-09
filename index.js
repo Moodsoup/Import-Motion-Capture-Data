@@ -9,7 +9,7 @@ let scaleMotionData = 1.75; // Scale the figure on screen by a factor, "zoom"
 
 function preload() {
     // Import motion capture data
-    MCdata = loadJSON("Firebird_frontal_by_Marco_Goecke.json");
+    MCdata = loadJSON("Moonlight_frontal_by_Juliano_Nunes.json");
 }
     
 function setup() {
